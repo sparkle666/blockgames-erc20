@@ -1,5 +1,12 @@
 # Basic Sample Hardhat Project
 #### Smart Contract for NFT: 0x78b25ab1208e8ea535bd9a46ef660200a80b7c43
+#### ERC721 Contract address: https://ropsten.etherscan.io/address/0x78b25ab1208e8ea535bd9a46ef660200a80b7c43
+
+#### ipfs metadata for NFT1: https://ipfs.io/ipfs/QmPrriukuoDUrXBrH8JKmbXRPTRwzuY61RYDcRWm1jwzUF
+
+#### ipfs metadata for NFT2: https://ipfs.io/ipfs/Qmdey8PkCV46q87rs75RSFha1t6Zm1YUqLPxRxrEw99ECm
+
+
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
 Try running some of the following tasks:
